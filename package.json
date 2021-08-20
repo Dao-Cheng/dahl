@@ -1,0 +1,6 @@
+{
+    "dependencies": {
+        "heroku-cli": "^7.0.9",
+        "linebot": "^1.6.1"
+    }
+}
